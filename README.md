@@ -1,2 +1,2 @@
 # Resume1
-this is a new 
+this repo contains my resume 
